@@ -1,3 +1,3 @@
-#MERN
+# MERN
 
-### `MySql` ### `Express` ### `Reactjs` ### `Nodejs` ### `Auth`
+`MySql` `Express` `Reactjs` `Nodejs` `Auth`
